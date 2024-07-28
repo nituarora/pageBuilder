@@ -1,0 +1,67 @@
+.card-block {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.widget-info {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px; /* Adjust as needed */
+}
+
+.widget-content h1 {
+    margin: 0;
+}
+
+.widget-content p {
+    margin-top: 5px;
+}
+
+.widget-details p {
+    margin: 5px 0;
+}
+.mainWidget{
+background: linear-gradient(123deg, #fff3dd 20%, #ffda99);
+padding: 34px 44px;
+border-radius: 16px;
+box-shadow: 0 8px 4px -5px #80808040;
+max-width: 490px;
+margin-left: auto;
+}
+p.title {
+    font-size: 30px;
+    font-weight:700;
+    color: #2c2c2c;
+}
+ul.banner_list,.sep {
+    font-size: 18px;
+    font-weight: 400;
+    color: #585858;
+}
+ul.home_list {
+    list-style: none;
+    padding: 0;
+}
+ul.home_list li {
+    padding-left: 30px;
+    margin-bottom: 7px;
+    position: relative;
+}
+ul.home_list li {
+    color: #585858;
+}
+.call_now{
+    font-size: 30px;
+    font-weight:700;
+    color: #2c2c2c;
+}
+.heading {
+    font-size: 40px;
+}
+ul.home_list{
+    margin-top:20px;
+    margin-left: -30px;
+}
+#example-navbar-warning a {
+    padding: 30px 30px;
+}
